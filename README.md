@@ -26,8 +26,8 @@ This internship provides hands-on experience in data analytics. The internship c
 ## Contributor
 Tolulope Olarewaju
 ## Acknowledgment
-Grateful to Python and Jupyter notebook for providing a powerful and reliable system that served as the foundation for this project.
-Grateful to Forage and Quantioum for providing this valuable learning opportunity and creating the challenging tasks that helped me develop my data analytics skills.
++ Grateful to Python and Jupyter notebook for providing a powerful and reliable system that served as the foundation for this project.
++ Grateful to Forage and Quantioum for providing this valuable learning opportunity and creating the challenging tasks that helped me develop my data analytics skills.
 ## License
 ## Contact
 For questions or feedback, please contact olarewajutolulope26@gmail.com
