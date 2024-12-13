@@ -1,4 +1,4 @@
-# Quantium Data Analytics Virtual Internship
+# Quantium Data Analytics Job Simulation
 ## Introduction
 This internship provides hands-on experience in data analytics. The internship consists of three tasks, each designed to challenge participants' analytical and problem-solving skills.
 ## Task 1: Data Preparation and Customer Analytics
@@ -18,7 +18,7 @@ This internship provides hands-on experience in data analytics. The internship c
 + Prepare a professional presentation to communicate insights effectively.
 + Enhance communication skills by conveying complex data insights clearly.
 ## Usage
-+ To effectively run the analyses and complete the tasks from the Quantium Data Analytics Virtual Internship, follow these steps:
++ To effectively run the analyses and complete the tasks from the Quantium Data Analytics Job Simulation, follow these steps:
 + Ensure you have installed Python and Jupyter Notebook.
 + Install the necessary libraries, pandas, matplotlib, numpy and scipy.
 + Launch Jupyter Notebook from your terminal or command prompt.
