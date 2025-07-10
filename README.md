@@ -1,4 +1,4 @@
-# 🥔 Chips Market Sales Analysis Dashboard
+# 🥔 Chips Market Sales Analysis
 
 This project is part of the Quantium Virtual Internship on Forage. It simulates a real-world business scenario using retail sales data focused on the chips category. The internship involved analyzing customer behavior, product performance, and marketing effectiveness using Python, Excel, and PowerPoint.
 
@@ -15,7 +15,6 @@ The goal was to turn raw retail transaction data into actionable insights for bo
 - **Python (Pandas, Matplotlib, Seaborn, Scipy)** – for data wrangling, statistical tests, and visualizations  
 - **Excel** – for initial exploration and file preparation  
 - **PowerPoint** – to present final insights and strategic recommendations  
-- **Forage Platform** – to simulate a real-life business case
 
 ---
 
@@ -32,14 +31,13 @@ The goal was to turn raw retail transaction data into actionable insights for bo
 - **Insight**: Trial stores showed measurable performance differences, with 95% confidence intervals used to validate results
 
 ### 🔹 Task 3: Executive Presentation
-- Created an executive-style slide deck to summarize findings from Task 1 and 2  
+- Created an executive-style slide deck to summarize findings from Tasks 1 and 2  
 - Provided visual summaries and data-backed recommendations
 
 ---
 
 ## 🚀 What I Achieved
 
-- Built a clean data analysis pipeline from raw transactions to insights  
 - Applied statistical techniques (correlation, t-tests, normalization) to real-world retail data  
 - Developed a clear presentation and report tailored to business stakeholders  
 - Learned to evaluate test vs. control store performance using Python
@@ -50,7 +48,6 @@ The goal was to turn raw retail transaction data into actionable insights for bo
 
 | Challenge | Solution |
 |----------|----------|
-| Adjusting R-based analysis for Python | Carefully restructured steps using pandas and scipy libraries |
 | Managing long workflows across 3 tasks | Broke the work into reproducible Python scripts and modules |
 | Handling missing days in transaction data | Generated full date sequences and merged to find gaps |
 | Plotting multi-line comparisons (trial, control, confidence bands) | Standardized visual format and fixed slice logic |
