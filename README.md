@@ -1,33 +1,96 @@
-# Quantium Data Analytics Job Simulation
-## Introduction
-This internship provides hands-on experience in data analytics. The internship consists of three tasks, each designed to challenge participants' analytical and problem-solving skills.
-## Task 1: Data Preparation and Customer Analytics
-+ Analyze a client's transaction dataset to identify customer purchasing behaviors.
-+ Clean and preprocess data to ensure accuracy and consistency.
-+ Conduct exploratory data analysis (EDA) to uncover trends and patterns.
-+ Segment customers based on purchasing habits and preferences.
-+ Generate actionable insights and recommendations for targeted marketing strategies.
-## Task 2: Experimentation and Uplift Testing
-+ Identify benchmark stores for comparison with trial store layouts.
-+ Design an experiment to test the impact of different store layouts on sales.
-+ Analyze sales data from the trial layouts to measure uplift and effectiveness.
-+ Provide data-driven recommendations for optimizing store design based on findings.
-## Task 3: Analytics and Commercial Application
-+ Synthesize insights from Tasks 1 and 2 into a comprehensive report for the client.
-+ Summarize key findings and highlight the commercial value of the analysis.
-+ Prepare a professional presentation to communicate insights effectively.
-+ Enhance communication skills by conveying complex data insights clearly.
-## Usage
-To effectively run the analyses and complete the tasks from the Quantium Data Analytics Job Simulation, follow these steps:
-+ Ensure you have installed Python and Jupyter Notebook.
-+ Install the necessary libraries, pandas, matplotlib, numpy and scipy.
-+ Launch Jupyter Notebook from your terminal or command prompt.
-+ Create a new notebook or open the existing notebooks for each task.
-## Contributor
-Tolulope Olarewaju
-## Acknowledgment
-+ Grateful to Python and Jupyter notebook for providing a powerful and reliable system that served as the foundation for this project.
-+ Grateful to Forage and Quantioum for providing this valuable learning opportunity and creating the challenging tasks that helped me develop my data analytics skills.
-## License
-## Contact
-For questions or feedback, please contact olarewajutolulope26@gmail.com
+# 🥔 Chips Market Sales Analysis Dashboard
+
+This project is part of the Quantium Virtual Internship on Forage. It simulates a real-world business scenario using retail sales data focused on the chips category. The internship involved analyzing customer behavior, product performance, and marketing effectiveness using Python, Excel, and PowerPoint.
+
+---
+
+## 📊 Project Overview
+
+The goal was to turn raw retail transaction data into actionable insights for both **business and technical stakeholders**. The analysis supports smarter decisions in **product performance tracking, customer segmentation, and campaign evaluation**.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Python (Pandas, Matplotlib, Seaborn, Scipy)** – for data wrangling, statistical tests, and visualizations  
+- **Excel** – for initial exploration and file preparation  
+- **PowerPoint** – to present final insights and strategic recommendations  
+- **Forage Platform** – to simulate a real-life business case
+
+---
+
+## 📌 Project Highlights
+
+### 🔹 Task 1: Customer Segmentation & Product Insights
+- Analyzed brand preferences and pack size trends  
+- Compared average unit prices, quantities, and sales volume across segments  
+- **Insight**: Mainstream Young Singles/Couples bought the most chips; Celica had highest retention %
+
+### 🔹 Task 2: Trial Store Performance Evaluation
+- Identified control stores using correlation and magnitude distance techniques  
+- Measured trial impact using sales lift and t-statistics  
+- **Insight**: Trial stores showed measurable performance differences, with 95% confidence intervals used to validate results
+
+### 🔹 Task 3: Executive Presentation
+- Created an executive-style slide deck to summarize findings from Task 1 and 2  
+- Provided visual summaries and data-backed recommendations
+
+---
+
+## 🚀 What I Achieved
+
+- Built a clean data analysis pipeline from raw transactions to insights  
+- Applied statistical techniques (correlation, t-tests, normalization) to real-world retail data  
+- Developed a clear presentation and report tailored to business stakeholders  
+- Learned to evaluate test vs. control store performance using Python
+
+---
+
+## ⚙️ Challenges & Solutions
+
+| Challenge | Solution |
+|----------|----------|
+| Adjusting R-based analysis for Python | Carefully restructured steps using pandas and scipy libraries |
+| Managing long workflows across 3 tasks | Broke the work into reproducible Python scripts and modules |
+| Handling missing days in transaction data | Generated full date sequences and merged to find gaps |
+| Plotting multi-line comparisons (trial, control, confidence bands) | Standardized visual format and fixed slice logic |
+
+---
+
+## ✅ Recommendations
+
+- Focus promotions on segments with high unit purchases (e.g., Mainstream Young Singles/Couples)  
+- Monitor trial stores against matched control stores using normalized sales and statistical thresholds  
+- Continue testing in smaller, low-risk markets to refine marketing effectiveness  
+
+---
+
+## 📥 Dataset
+
+- **Source**: Quantium Retail Analytics Internship (via Forage)  
+- **Contents**: Transaction data, customer segmentation, store information
+
+---
+
+## 👤 Contributor
+
+**Tolulope Olarewaju**
+
+---
+
+## 🙏 Acknowledgements
+
+- Thanks to **Quantium** and **Forage** for providing a realistic, high-quality internship simulation  
+- Appreciation to the open-source Python community for robust data science tools
+
+---
+
+## 📜 License
+
+This project is intended for educational and portfolio use.
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or collaborations, please reach out at **olarewajutolulope26@gmail.com**
